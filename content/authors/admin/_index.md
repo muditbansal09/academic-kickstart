@@ -14,8 +14,8 @@ role: Technology Consultant at PwC US
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Dayananda Sagar College of Engineering
+  url: "https://dayanandasagar.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
