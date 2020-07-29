@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -47,5 +47,8 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
+  # Background gradient.
+  gradient_start = "#ECCCC2"
+  gradient_end = "lightgrey"
 
 +++
