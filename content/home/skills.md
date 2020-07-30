@@ -58,7 +58,7 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "white"
+  gradient_start = ""
   gradient_end = "#ECCCC2"
 
 
