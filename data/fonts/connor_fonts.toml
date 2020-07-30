@@ -2,10 +2,10 @@
 name = "connor_fonts"
 
 # Optional Google font URL
-google_fonts = "Fira+Code|Inter|Miriam+Libre:wght@400;700|Karla|DM+Mono|Work+Sans|Calistoga"
+google_fonts = "Muli:400,500,600,700,800,900|Lato:400,500,600,700,800,900|Roboto+Mono:400,500,600,700,800,900|Khula:400,500,600,700|Inter:400,500,600,700,800,900"
 
 # Font families
-heading_font = "Calistoga"
-body_font = "Inter"
-nav_font = "Karla"
-mono_font = "DM Mono"
+heading_font = "Inter"
+body_font = "Lato"
+nav_font = "Inter"
+mono_font = "Roboto Mono"
